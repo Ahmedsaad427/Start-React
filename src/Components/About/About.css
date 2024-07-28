@@ -1,0 +1,25 @@
+.item {
+  background-color: #1abc9c;
+}
+
+.imageHome {
+  height: 350px;
+  width: 540px;
+  border-radius: 50%;
+}
+
+.itemHeading {
+  font-size: 50px;
+}
+
+.star-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line-About {
+  height: 4px;
+  width: 80px;
+  background-color: white;
+}
